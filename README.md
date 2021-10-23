@@ -42,7 +42,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=iamrossan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <a href="https://github.com/iamrossan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrossan&theme=dark&hide_langs_below=1" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrossan&theme=dark&hide_langs_below=1" />
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrossan&theme=dark" alt="iamrossan" /></p>
