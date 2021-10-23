@@ -34,11 +34,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrossan&show_icons=true&locale=en&layout=compact" alt="iamrossan"></p>
 <a href="https://github.com/iamrossan">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrossan&show_icons=true&locale=en" alt="iamrossan"></p></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrossan&" alt="iamrossan" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrossan&show_icons=true&locale=en" alt="iamrossan">
+</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrossan&theme=dark" alt="iamrossan" /></p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamrossan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<p><img src="https://github-readme-stats.vercel.app/api?username=iamrossan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <a href="https://github.com/iamrossan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrossan&theme=dark&hide_langs_below=1" />
