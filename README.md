@@ -36,3 +36,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrossan&show_icons=true&locale=en" alt="iamrossan"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrossan&" alt="iamrossan"></p>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamkrishnaa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+<a href="https://github.com/iamkrishnaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrishnaa&theme=dark&hide_langs_below=1" />
+</a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkrishnaa&theme=dark" alt="iamkrishnaa" /></p>
