@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **TeiSpace**
+- 👯 I’m looking to collaborate on **TeiSpace** and **ThuloTechnology Pvt. Ltd.**
 
 - 🤝 I’m looking for help with **TeiSpace**
 
