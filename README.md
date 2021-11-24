@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamrossan](https://github.com/iamrossan)
 
-- 💬 Ask me about **Java, Php, JS, HTMl5, CSS3**
+- 💬 Ask me about **Java, Php, JS, HTMl5, CSS3, Flutter, Dart and nodeJS**
 
 - 📫 How to reach me **roodhikari@gmail.com**
 
