@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and nodeJS**
 
 - 👯 I’m looking to collaborate on **TeiSpace** and **ThuloTechnology Pvt. Ltd.**
 
