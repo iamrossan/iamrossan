@@ -34,13 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrossan&show_icons=true&locale=en&layout=compact">
  
-  
-<a href="https://github.com/iamrossan">
-  </p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrossan&hide_langs_below=1" />
-</a>
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrossan&theme=dark" alt="iamrossan" /></p>
 
