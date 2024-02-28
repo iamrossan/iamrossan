@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m Co-Founder at **Teispace Technology Pvt. Ltd.**
+- 👯 I’m Co-Founder of **Teispace Technology Pvt. Ltd.**
 
 - 🤝 I’m looking for help with **Information Technologies**
 
